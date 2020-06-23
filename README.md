@@ -2,7 +2,7 @@
 =============
  Objectifs:
 ------------
-Rendre la page responsive en éditant uniquement le dossier css.
+Rendre la page responsive en éditant uniquement le fichier css.
 
 -----------------------
 Echéance:
