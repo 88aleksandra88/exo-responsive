@@ -9,4 +9,4 @@ Echéance:
 * 23/06/2020
 -----------------------------------
 Collaborateur:
-@88aleksandra88
+(https://github.com/88aleksandra88)
